@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXMzs5+P668=",
+  "success": true,
+  "projectFilePath": "C:\\.SWT391\\StudentManagement\\StudentManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\as\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
