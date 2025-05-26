@@ -1,0 +1,14 @@
+C:\.SWT391\GenderHealthcareSimple\bin\Debug\net9.0\GenderHealthcareSimple.exe
+C:\.SWT391\GenderHealthcareSimple\bin\Debug\net9.0\GenderHealthcareSimple.deps.json
+C:\.SWT391\GenderHealthcareSimple\bin\Debug\net9.0\GenderHealthcareSimple.runtimeconfig.json
+C:\.SWT391\GenderHealthcareSimple\bin\Debug\net9.0\GenderHealthcareSimple.dll
+C:\.SWT391\GenderHealthcareSimple\bin\Debug\net9.0\GenderHealthcareSimple.pdb
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.AssemblyInfoInputs.cache
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.AssemblyInfo.cs
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.csproj.CoreCompileInputs.cache
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.dll
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\refint\GenderHealthcareSimple.dll
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.pdb
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\GenderHealthcareSimple.genruntimeconfig.cache
+C:\.SWT391\GenderHealthcareSimple\obj\Debug\net9.0\ref\GenderHealthcareSimple.dll
